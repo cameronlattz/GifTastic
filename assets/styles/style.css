@@ -1,0 +1,10 @@
+#gifsContainer {
+    width: 70%;
+}
+.gif-container {
+    margin: 5px;
+    cursor: pointer;
+}
+h3 {
+    text-align: center;
+}
