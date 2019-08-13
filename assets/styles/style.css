@@ -1,10 +1,27 @@
+#addAnimalContainer, #gifsContainer {
+    padding-top: 15px;
+}
 #gifsContainer {
-    width: 70%;
+    margin: 0 10px;
 }
 .gif-container {
     margin: 5px;
     cursor: pointer;
+    display: inline-block;
+    width: 32%;
+}
+.gif-container img {
+    height: 100%;
+    width: unset;
+    margin: 0 auto;
+}
+.button {
+    margin: 3px;
 }
 h3 {
     text-align: center;
+}
+.card-header-title {
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
