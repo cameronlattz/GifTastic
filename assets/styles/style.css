@@ -24,4 +24,12 @@ h3 {
 .card-header-title {
     white-space: nowrap;
     text-overflow: ellipsis;
+    display: block;
+    overflow: hidden;
+}
+.card-header {
+    background-color: 
+}
+.icon:hover {
+    opacity: 0.75;
 }
